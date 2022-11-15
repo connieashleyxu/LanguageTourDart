@@ -1,2 +1,2 @@
 # LanguageTourDart
-ITP 358: Programming Graphical User Interfaces HW1
+USC's ITP 358: Programming Graphical User Interfaces HW1
